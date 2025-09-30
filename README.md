@@ -8,7 +8,13 @@
 
 <h2> 📜Certifications</h2>
 
- - <b>Google Cybersecurity Professional </b> (https://www.coursera.org/account/accomplishments/specialization/certificate/DJ9Q6WY8XY7Cv)
+ - <b>Google Cybersecurity Professional </b>
+
+        *   Issued by: Google
+        *   Completion Date: [September, 2025]
+        *   (https://coursera.org/share/78f9d9e8d1f59c350398fecfb658ea97)
+        
+       
 
 
 
