@@ -8,7 +8,7 @@
 
 <h2> 📜Certifications</h2>
 
- - <b>Google Cybersecurity</b> (https://www.coursera.org/account/accomplishments/certificate/FM38O9JDEOKY))
+ - <b>Google Cybersecurity</b> (https://www.coursera.org/account/accomplishments/specialization/certificate/DJ9Q6WY8XY7Cv)
 
 
 
