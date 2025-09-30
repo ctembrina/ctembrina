@@ -4,7 +4,8 @@
 <h2>👨‍💻 IT Security Projects:</h2>
 
 - <b>Labs</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - Building a Home Lab
+  - Active Directory
 
 <h2> 📜Certifications</h2>
 
