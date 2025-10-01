@@ -3,8 +3,9 @@
 
 <h2>👨‍💻 IT Security Projects:</h2>
 
-- <b>Labs</b>
-  - TryHackMe
+- <b>TryHackMe Labs</b>
+
+  - [Offensive Security](https://github.com/ctembrina/Offensive-Security)
 
 
 <h2> 📜Certifications</h2>
