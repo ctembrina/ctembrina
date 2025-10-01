@@ -4,8 +4,8 @@
 <h2>👨‍💻 IT Security Projects:</h2>
 
 - <b>Labs</b>
-  - Building a Home Lab
-  - Active Directory
+  - TryHackMe
+
 
 <h2> 📜Certifications</h2>
 
