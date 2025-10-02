@@ -8,7 +8,7 @@
   - [Offensive Security](https://github.com/ctembrina/Offensive-Security)
   - SOC Level 1
   - Wazuh: Security Monitoring
-  - Wireshark
+  - Packet Analysis
 
 
 <h2> 📜Certifications</h2>
