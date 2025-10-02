@@ -6,6 +6,7 @@
 - <b>TryHackMe Labs</b>
 
   - [Offensive Security](https://github.com/ctembrina/Offensive-Security)
+  - SOC Level 1
 
 
 <h2> 📜Certifications</h2>
