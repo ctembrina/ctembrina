@@ -6,7 +6,7 @@
 - <b>TryHackMe Labs</b>
 
   - [Offensive Security](https://github.com/ctembrina/Offensive-Security)
-  - SOC Level 1
+  - [DNS](https://github.com/ctembrina/Domain-Names)
   - Wazuh: Security Monitoring
   - Packet Analysis
 
