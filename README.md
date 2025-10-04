@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 IT Security Projects:</h2>
 
-- <b>TryHackMe Labs</b>
+
 
   - [Offensive Security](https://github.com/ctembrina/Offensive-Security)
   - [DNS](https://github.com/ctembrina/Domain-Names)
