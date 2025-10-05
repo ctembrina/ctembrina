@@ -5,7 +5,7 @@
 
 
 
-  - Azure Sentinel SOC Lab – Threat Detection and Analysis
+ - <b>Azure Sentinel SOC Lab – Threat Detection and Analysis </b>
   - [Offensive Security](https://github.com/ctembrina/Offensive-Security)
   - [DNS](https://github.com/ctembrina/Domain-Names)
  
