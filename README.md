@@ -5,10 +5,10 @@
 
 
 
+  - Azure Sentinel SOC Lab – Threat Detection and Analysis
   - [Offensive Security](https://github.com/ctembrina/Offensive-Security)
   - [DNS](https://github.com/ctembrina/Domain-Names)
-  - Wazuh: Security Monitoring
-  - Packet Analysis
+ 
 
 
 <h2> 📜Certifications</h2>
