@@ -7,6 +7,7 @@
 
  - <b>Azure Sentinel SOC Lab – Threat Detection and Analysis </b>
       - Azure Setup
+      - Sentinel Threat Detection and Analysis
 
 
   - <b>TryHackMe Labs </b>
