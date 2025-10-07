@@ -6,7 +6,7 @@
 
 
  - <b>Azure Sentinel SOC Lab – Threat Detection and Analysis </b>
-      - Azure Setup
+     - [Azure Setup](https://github.com/ctembrina/Azure-Setup)
       - Sentinel Threat Detection and Analysis
 
 
