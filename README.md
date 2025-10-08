@@ -7,7 +7,7 @@
 
  - <b>Azure Sentinel SOC Lab – Threat Detection and Analysis </b>
      - [Azure Setup](https://github.com/ctembrina/Azure-Setup)
-      - Sentinel Threat Detection and Analysis
+     - [Sentinel Threat Detection and Analysis](https://github.com/ctembrina/Sentinel-Threat-Detection-and-Analysis)
 
 
   - <b>TryHackMe Labs </b>
