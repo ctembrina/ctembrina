@@ -13,6 +13,9 @@
   - <b>TryHackMe Labs </b>
       - [Offensive Security](https://github.com/ctembrina/Offensive-Security)
       - [DNS](https://github.com/ctembrina/Domain-Names)
+   
+  
+  - <b>Mapping NIST CSF 2.0 and NIST SP 800-53 Controls to PCI DSS and SOX Frameworks</b>
  
 
 
