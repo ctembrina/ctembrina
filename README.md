@@ -17,6 +17,9 @@
   
   - <b>NIST CSF 2.0 and NIST SP 800-53 Controls to PCI DSS and SOX Frameworks <b>
       - [Control Cross-Walk](https://github.com/ctembrina/Mapping-NIST-CSF-2.0-and-NIST-SP-800-53-Controls-to-PCI-DSS-and-SOX-Frameworks)
+   
+
+  - <b>Bridging GRC and Cybersecurity <b>
  
 
 
